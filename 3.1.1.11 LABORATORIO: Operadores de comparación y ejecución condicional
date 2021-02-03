@@ -1,0 +1,8 @@
+#Espatifilo enthusiast
+flor = input("Tu flor favorita es:")
+if flor == "Espatifilo":
+    print("Si, ¡El Espatifilo es la mejor planta de todos los tiempos!")
+elif flor == "espatifilo":
+    print("No, ¡quiero un gran Espatifilo!")
+else:
+    print("!Espatifilo! ¡No", flor ,"!")
